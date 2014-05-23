@@ -6,4 +6,4 @@ LOCAL_ARM_NEON := true
 
 include jni/cam_test/Android.mk
 
-#APP_OPTIM := debug
+APP_OPTIM := debug
